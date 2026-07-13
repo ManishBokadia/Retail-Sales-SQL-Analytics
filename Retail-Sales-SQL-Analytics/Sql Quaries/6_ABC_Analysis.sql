@@ -160,7 +160,7 @@ SELECT
 
     ROUND(company_sales,2) AS company_sales,
 
-    running_percentage,
+    From running_percentage,
 
     CASE
 
