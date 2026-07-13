@@ -1,0 +1,19 @@
+product_id,product_name,category,unit_price
+1,Laptop,Electronics,962.75
+2,Phone,Electronics,47.27
+3,Tablet,Electronics,419.79
+4,Monitor,Electronics,342.58
+5,Keyboard,Electronics,1107.34
+6,Mouse,Electronics,1018.28
+7,Chair,Furniture,1339.35
+8,Desk,Furniture,139.54
+9,Cabinet,Furniture,638.66
+10,Bookshelf,Furniture,54.4
+11,Notebook,Office Supplies,335.77
+12,Pen,Office Supplies,762.98
+13,Printer Paper,Office Supplies,49.54
+14,Stapler,Office Supplies,306.27
+15,Mixer,Home,978.33
+16,Cookware,Home,821.96
+17,Lamp,Home,338.46
+18,Fan,Home,888.01
