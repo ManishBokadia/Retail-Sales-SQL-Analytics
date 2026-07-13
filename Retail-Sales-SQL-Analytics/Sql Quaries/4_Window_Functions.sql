@@ -3,7 +3,7 @@
                             RETAIL SALES SQL ANALYTICS
 ===============================================================================
 
-File Name    : 04_Window_Functions.sql
+File Name    : 4_Window_Functions.sql
 Author       : Manish Bokadia
 Database     : Retail Sales
 
